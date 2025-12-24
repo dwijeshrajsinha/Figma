@@ -89,7 +89,7 @@ third page
 </div>
 ~~~
 ## OUTPUT:
-
+![IMG_8814](https://github.com/user-attachments/assets/36b9fd9b-3563-450b-b434-b5c19abfa7f3)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
